@@ -1,0 +1,11 @@
+{
+  "name": "jira-sync",
+  "version": "0.0.1",
+  "description": "A helper to sync two JIRA instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imregabriel@gmail.com",
+  "license": "ISC"
+}
